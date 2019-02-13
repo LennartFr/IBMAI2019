@@ -9,3 +9,5 @@ https://www.ibm.com/cloud/watson-assistant/
 Watson Assistant Tutorial: Building a complex dialog https://console.bluemix.net/docs/services/assistant/tutorial.html#tutorial
 
 Watson Assistant catalog entry: https://cloud.ibm.com/catalog/services/watson-assistant
+
+<img src="Screen Shot 2019-02-13 at 9.00.45 AM.png">
