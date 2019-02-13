@@ -17,11 +17,19 @@ Watson Assistant catalog entry: https://cloud.ibm.com/catalog/services/watson-as
 
 ## [Compare Comply](https://console.bluemix.net/catalog/services/compare-comply)
 
+   Watson Compare and Comply homapage https://www.ibm.com/cloud/compare-and-comply
+
 ## [Discovery](https://console.bluemix.net/catalog/services/discovery)
+   Discovery News homepage: https://www.ibm.com/watson/services/discovery-news/
+   Discovery News Demo: https://discovery-news-demo.ng.bluemix.net
+
 
 ## [Knowledge Catalog](https://console.bluemix.net/catalog/services/knowledge-catalog)
+   Watson Knowledge Catalog Homepage: https://www.ibm.com/cloud/watson-knowledge-catalog
 
 ## [Knowledge Studio](https://console.bluemix.net/catalog/services/knowledge-studio)
+   Watson Studio Homepage:  https://www.ibm.com/cloud/watson-studio
+
 
 ## [Langiuage Translator](https://console.bluemix.net/catalog/services/language-translator)
    [Language Translator Demo](https://language-translator-demo.ng.bluemix.net)
