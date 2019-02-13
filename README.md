@@ -70,6 +70,8 @@ Watson Assistant catalog entry: https://cloud.ibm.com/catalog/services/watson-as
 
 ## [Watson Studio](https://console.bluemix.net/catalog/services/watson-studio)
 
+   Watson Studio Homepage: https://www.ibm.com/cloud/watson-studio
+
 ## [Power AI](https://console.bluemix.net/catalog/services/powerai)
 
    Video: https://mediacenter.ibm.com/media/t/1_7wjdjlhd 
