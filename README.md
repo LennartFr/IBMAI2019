@@ -4,6 +4,7 @@
 
 ## IBM Watson Assistant
 
+IBM Watson Assistant Homepage: https://www.ibm.com/cloud/watson-assistant/
 IBM Watson Assistant Demo: https://watson-assistant-demo.ng.bluemix.net
 
 https://www.ibm.com/cloud/watson-assistant/
@@ -26,7 +27,7 @@ Watson Assistant catalog entry: https://cloud.ibm.com/catalog/services/watson-as
 
 ## [Knowledge Studio](https://console.bluemix.net/catalog/services/knowledge-studio)
    Watson Studio Homepage:  https://www.ibm.com/cloud/watson-studio
-
+   Watson Knowledge Studio demo: http://knowledge-studio-demo.ng.bluemix.net/
 
 ## [Language Translator](https://console.bluemix.net/catalog/services/language-translator)
    [Language Translator Demo](https://language-translator-demo.ng.bluemix.net)
