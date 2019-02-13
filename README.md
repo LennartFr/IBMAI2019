@@ -1,6 +1,6 @@
 # IBMAI 2019
 
-## IBN Watson Assistant
+## IBM Watson Assistant
 
 IBM Watson Assistant Demo: https://watson-assistant-demo.ng.bluemix.net
 
