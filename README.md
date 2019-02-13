@@ -31,13 +31,15 @@ Watson Assistant catalog entry: https://cloud.ibm.com/catalog/services/watson-as
    Watson Studio Homepage:  https://www.ibm.com/cloud/watson-studio
 
 
-## [Langiuage Translator](https://console.bluemix.net/catalog/services/language-translator)
+## [Language Translator](https://console.bluemix.net/catalog/services/language-translator)
    [Language Translator Demo](https://language-translator-demo.ng.bluemix.net)
    
 ## [Machine Learning](https://console.bluemix.net/catalog/services/machine-learning) 
    Watson Machine Learning homepage: https://www.ibm.com/cloud/machine-learning
 
 ## [Natural Language Clsassifier](https://console.bluemix.net/catalog/services/natural-language-classifier)
+   Watson Natural Language Classifier homepage: https://www.ibm.com/watson/services/natural-language-classifier/
+   Watson Natural Language Classifier Demo https://natural-language-classifier-demo.ng.bluemix.net/
 
 ## [Natural Language Understanding](https://console.bluemix.net/catalog/services/natural-language-understanding)
 
@@ -46,8 +48,12 @@ Watson Assistant catalog entry: https://cloud.ibm.com/catalog/services/watson-as
    Personality Insights Demo: https://personality-insights-demo.ng.bluemix.net
 
 ## [Speech To Text](https://console.bluemix.net/catalog/services/speech-to-text)
+   Speech to Text Homepage: https://www.ibm.com/watson/services/speech-to-text/
+   Speech to Text Demo: https://speech-to-text-demo.ng.bluemix.net
 
-## [Text to Speach](https://console.bluemix.net/catalog/services/text-to-speech)
+## [Text to Speech](https://console.bluemix.net/catalog/services/text-to-speech)
+   Text to Speech homepage: https://www.ibm.com/watson/services/text-to-speech
+   Text to Speech Demo: https://text-to-speech-demo.ng.bluemix.net/
 
 ## [Tone Analyzer](https://console.bluemix.net/catalog/services/tone-analyzer)
    Tone Analyzer homepage: https://www.ibm.com/watson/services/tone-analyzer/
