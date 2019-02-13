@@ -1,4 +1,4 @@
-# IBMAI 2019
+# IBM AI 2019
 
 ## [IBM Cloud catalog AI](https://console.bluemix.net/catalog/?category=ai)
 
@@ -26,27 +26,35 @@ Watson Assistant catalog entry: https://cloud.ibm.com/catalog/services/watson-as
 ## [Langiuage Translator](https://console.bluemix.net/catalog/services/language-translator)
    [Language Translator Demo](https://language-translator-demo.ng.bluemix.net)
    
-## [Machine Learning](https://console.bluemix.net/catalog/services/machine-learning)  
+## [Machine Learning](https://console.bluemix.net/catalog/services/machine-learning) 
+   Watson Machine Learning homepage: https://www.ibm.com/cloud/machine-learning
 
 ## [Natural Language Clsassifier](https://console.bluemix.net/catalog/services/natural-language-classifier)
 
 ## [Natural Language Understanding](https://console.bluemix.net/catalog/services/natural-language-understanding)
 
 ## [Personality Insights](https://console.bluemix.net/catalog/services/personality-insights)
+   Personality Insights homepage https://www.ibm.com/watson/services/personality-insights/
+   Personality Insights Demo: https://personality-insights-demo.ng.bluemix.net
 
 ## [Speech To Text](https://console.bluemix.net/catalog/services/speech-to-text)
 
 ## [Text to Speach](https://console.bluemix.net/catalog/services/text-to-speech)
 
 ## [Tone Analyzer](https://console.bluemix.net/catalog/services/tone-analyzer)
+   Tone Analyzer homepage: https://www.ibm.com/watson/services/tone-analyzer/
+   Tone Analyzer demo: https://tone-analyzer-demo.ng.bluemix.net
 
 ## [Visual Recognition](https://console.bluemix.net/catalog/services/tone-analyzer)
+   https://www.ibm.com/watson/services/visual-recognition/
+   Visual Recognition Demo: https://www.ibm.com/watson/services/visual-recognition/demo/#demo
 
 ## [Watson OpenScale](https://console.bluemix.net/catalog/services/watson-openscale)
+   Watson Opencale Homepage: https://www.ibm.com/cloud/watson-openscale
 
 ## [Watson Studio](https://console.bluemix.net/catalog/services/watson-studio)
 
 ## [Power AI](https://console.bluemix.net/catalog/services/powerai)
 
-
+   Video: https://mediacenter.ibm.com/media/t/1_7wjdjlhd 
 
