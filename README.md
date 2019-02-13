@@ -36,6 +36,7 @@ Watson Assistant catalog entry: https://cloud.ibm.com/catalog/services/watson-as
    
 ## [Machine Learning](https://console.bluemix.net/catalog/services/machine-learning) 
    Watson Machine Learning homepage: https://www.ibm.com/cloud/machine-learning 
+   
    [Product Tour of IBM Watson Machine Learning with Watson Studio](https://www.ibm.com/cloud/garage/dte/producttour/product-tour-ibm-watson-machine-learning-watson-studio)
 
 ## [Natural Language Clsassifier](https://console.bluemix.net/catalog/services/natural-language-classifier)
