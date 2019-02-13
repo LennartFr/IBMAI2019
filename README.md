@@ -1,5 +1,7 @@
 # IBMAI 2019
 
+## [IBM Cloud catalog](https://console.bluemix.net/catalog/?category=ai)
+
 ## IBM Watson Assistant
 
 IBM Watson Assistant Demo: https://watson-assistant-demo.ng.bluemix.net
