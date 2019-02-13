@@ -12,9 +12,6 @@ Watson Assistant Tutorial: Building a complex dialog https://console.bluemix.net
 
 Watson Assistant catalog entry: https://cloud.ibm.com/catalog/services/watson-assistant
 
-<img src="img/Screen Shot 2019-02-13 at 9.00.45 AM.png">
-
-
 ## [Compare Comply](https://console.bluemix.net/catalog/services/compare-comply)
 
    Watson Compare and Comply homapage https://www.ibm.com/cloud/compare-and-comply
