@@ -27,14 +27,14 @@ Watson Assistant catalog entry: https://cloud.ibm.com/catalog/services/watson-as
    
    https://youtu.be/edXPUWn-72s
 
-
-
-
 ## [Knowledge Studio](https://console.bluemix.net/catalog/services/knowledge-studio)
    
    Watson Studio Homepage:  https://www.ibm.com/cloud/watson-studio
   
    Watson Knowledge Studio demo: http://knowledge-studio-demo.ng.bluemix.net/
+
+   https://youtu.be/7JrX3EnzERI
+
 
 ## [Language Translator](https://console.bluemix.net/catalog/services/language-translator)
    [Language Translator Demo](https://language-translator-demo.ng.bluemix.net)
