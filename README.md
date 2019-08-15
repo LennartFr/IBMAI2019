@@ -50,6 +50,8 @@ Watson Assistant catalog entry: https://cloud.ibm.com/catalog/services/watson-as
 
 ## [Natural Language Understanding](https://console.bluemix.net/catalog/services/natural-language-understanding)
 
+   <a href="https://natural-language-understanding-demo.ng.bluemix.net">Natural Language Understanding demo</a>
+
 ## [Personality Insights](https://console.bluemix.net/catalog/services/personality-insights)
    Personality Insights homepage https://www.ibm.com/watson/services/personality-insights/
    Personality Insights Demo: https://personality-insights-demo.ng.bluemix.net
