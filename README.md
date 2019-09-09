@@ -7,6 +7,8 @@
 IBM Watson Assistant Homepage: https://www.ibm.com/cloud/watson-assistant/
 IBM Watson Assistant Demo: https://watson-assistant-demo.ng.bluemix.net
 
+IBM Watson Assistant Build a Chatbot: https://www.ibm.com/watson/how-to-build-a-chatbot
+
 https://www.ibm.com/cloud/watson-assistant/
 
 Watson Assistant Tutorial: Building a complex dialog https://console.bluemix.net/docs/services/assistant/tutorial.html#tutorial
