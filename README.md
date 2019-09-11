@@ -4,6 +4,9 @@
 
 ## IBM Watson Assistant
 
+[Watson Assistant 6 min Demo](https://mediacenter.ibm.com/media/t/0_or8qwtp5)
+[Watson Assistant connected vehicle](https://mediacenter.ibm.com/media/IBM+Watson+Assistant+for+today%27s+connected+vehicles/1_fjk3r4po)
+
 IBM Watson Assistant Homepage: https://www.ibm.com/cloud/watson-assistant/
 IBM Watson Assistant Demo: https://watson-assistant-demo.ng.bluemix.net
 
