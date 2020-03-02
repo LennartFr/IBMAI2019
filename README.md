@@ -1,4 +1,4 @@
-# IBM AI 2019
+# IBM AI 2020
 
 ## [IBM Cloud catalog AI](https://console.bluemix.net/catalog/?category=ai)
 
